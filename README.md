@@ -1,6 +1,6 @@
 # Menu Interativo 😁🖥️
 ---
-Esse código não foi desenvolvido por mim mas eu achei muito massa e tive que aprender, achei incrível essa ideia de interatividade 🎞️🤩
+Achei incrível essa ideia de interatividade 🎞️🤩, meu primerio menu interativo utilizando animações em css 🖥️
 
 Acesse o link abaixo para vizualizar: 
 
